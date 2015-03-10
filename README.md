@@ -13,6 +13,8 @@ then navigate to a paywalled page on the Los Angeles Times' website, and then cl
 javascript:(function()%7Bvar overlay%3Ddocument.getElementById("reg-overlay")%3Bvar bodyElement%3Ddocument.getElementsByTagName("BODY")%5B0%5D%3Bvar htmlElement%3Ddocument.getElementsByTagName("HTML")%5B0%5D%3Boverlay.parentNode.removeChild(overlay)%3BbodyElement.style.overflow%3D"auto"%3BhtmlElement.style.overflow%3D"auto"%3B%7D)()%3B;
 ```
 
+Alternately, copy the above code, hit CTRL+D (or &#8984;+D if you're running Mac OS X), click 'Edit', title the bookmark, and paste the above code into the URL field, then click 'Save'.
+
 ##Works In
 
 - Chrome
