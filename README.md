@@ -10,7 +10,7 @@ Save the HTML file to your computer, view the HTML file in a web browser, drag t
 then navigate to a paywalled page on the Los Angeles Times' website, and then click the Bookmarklet in your Bookmarks bar.
 
 ```javascript
-javascript:(function(){document.getElementById("reg-overlay").parentNode.removeChild(overlay);document.getElementsByTagName("BODY")[0].style.overflow="auto";document.getElementsByTagName("HTML")[0].style.overflow="auto";})();
+javascript:(function()%7Bvar overlay%3Ddocument.getElementById("reg-overlay")%3Bvar bodyElement%3Ddocument.getElementsByTagName("BODY")%5B0%5D%3Bvar htmlElement%3Ddocument.getElementsByTagName("HTML")%5B0%5D%3Boverlay.parentNode.removeChild(overlay)%3BbodyElement.style.overflow%3D"auto"%3BhtmlElement.style.overflow%3D"auto"%3B%7D)()%3B;
 ```
 
 ##Works In
