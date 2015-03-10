@@ -26,4 +26,4 @@ Alternately, copy the above code, hit CTRL+D (or &#8984;+D if you're running Mac
 
 ##Legal
 
-Author is in no way associated with the Los Angeles Times or any of its affiliates. The author and the above code are not endorsed by The Los Angeles Times, latimes.com, the city of Los Angeles, or the Queen of England. Any confusion that might indicate association or endorsement is unintended, and, frankly, quite silly. The marks "LA Times", "Los Angeles Times", and "LATimes" are the property of Tribune Publishing and are used here for purely nominative purposes.
+Author is in no way associated with the Los Angeles Times or any of its affiliates. The author and the above code are not endorsed by The Los Angeles Times, latimes.com, the city of Los Angeles, the Queen of England, or Mrs. Basil E. Frankweiler. Any confusion that might indicate association or endorsement is unintended, and, frankly, quite silly. The marks "LA Times", "Los Angeles Times", and "LATimes" are the property of Tribune Publishing and are used here for purely nominative purposes.
