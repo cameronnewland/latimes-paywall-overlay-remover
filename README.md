@@ -23,3 +23,7 @@ Alternately, copy the above code, hit CTRL+D (or &#8984;+D if you're running Mac
 
 - Add support for Firefox
 - Test in Firefox
+
+##Legal
+
+Author is in no way associated with the Los Angeles Times or any of its affiliates. The marks "LA Times", "Los Angeles Times", and "LATimes" are the property of Tribune Publishing and are used here purely nominatively.
